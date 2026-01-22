@@ -1,88 +1,171 @@
-<!-- Akaash Thawani - GitHub Profile README -->
-
-<h1 align="center">👋 Hi, I'm Akaash Thawani</h1>
-
-<p align="center">
-  <b>AI & Software Engineer | Building Agentic Systems | Backend-First Thinker</b>  
-</p>
-
-<p align="center">
-  <a href="https://www.akaash.works">🌐 www.akaash.works</a> |
-  <a href="https://github.com/AkaashThawani">GitHub</a> |
-  <a href="https://www.linkedin.com/in/akaash-thawani/">LinkedIn</a>
-</p>
-
----
-
-### 🚀 About Me
-I'm a software engineer passionate about building **AI-driven automation systems** that orchestrate workflows and reasoning across multiple agents.  
-My focus lies at the intersection of **LLMs, backend systems**, and **scalable cloud architecture**.
-
----
-
-### 🧠 What I'm Working On
-- 🧩 **[Karyakarta Agent](https://github.com/AkaashThawani/karyakarta-agent)** – AI orchestration platform for automating text-driven workflows  
-- 🤖 **AI Sales Order Automation** – Backend that parses, validates, and generates structured sales orders via LLMs  
-- ☁️ Deploying microservices on **GCP Cloud Run** with containerized pipelines
-
----
-
-### 🧰 Tech Stack
 <div align="center">
+  
+# 👋 Hi, I'm Akaash Thawani
 
-| Backend | Frontend | AI / Tools |
-|----------|-----------|------------|
-| Python, FastAPI, Flask | React, Next.js, Tailwind | LangChain, OpenAI, Gemini |
-| Docker, nsjail | TypeScript, HTML/CSS | GCP Cloud Run, Artifact Registry |
-| PostgreSQL, MongoDB | | GitHub Actions, CI/CD |
+**AI & Software Engineer | Building Agentic Systems | Open Source Contributor**
+
+[![Website](https://img.shields.io/badge/🌐-akaash.works-blue?style=flat-square)](https://www.akaash.works)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akaash-thawani/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:akaashthawani13@yahoo.com)
 
 </div>
 
 ---
 
-### 📚 Currently Learning
+## 🚀 About Me
+
+I'm a software engineer specializing in **AI-driven automation systems** and **agentic workflows**. I build scalable backend architectures that orchestrate complex reasoning across multiple AI agents, with a focus on production-ready LLM applications.
+
+```typescript
+const akaash = {
+  focus: ["AI Orchestration", "Backend Architecture", "Cloud-Native Systems"],
+  currentlyBuilding: "Multi-agent systems for workflow automation",
+  learning: ["LLM Evaluation Frameworks", "Advanced GCP Deployments"],
+  openTo: "Collaborations on AI infrastructure & developer tools"
+};
+```
+
+---
+
+## 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧩 [Karyakarta Agent](https://github.com/AkaashThawani/karyakarta-agent)
+AI orchestration platform for automating text-driven workflows with multi-agent coordination
+
+**Tech:** Python • LangChain • FastAPI • Docker
+
+</td>
+<td width="50%">
+
+### 🤖 AI Sales Order Automation
+Backend system that parses, validates, and generates structured sales orders using LLMs
+
+**Tech:** OpenAI • Gemini • PostgreSQL • GCP
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 Open Source Contributions
+
+### [Google Drive Picker Integration - BubbleLab](https://github.com/bubblelabai/BubbleLab/pull/234) ✅ Merged
+
+Implemented native Google Drive file picker for Bubble Studio, enabling seamless file selection directly from input fields.
+
+**Key Contributions:**
+- 🎯 Built React component with TypeScript for Drive file selection
+- 🔐 Implemented OAuth token caching (1-hour TTL) to minimize auth popups
+- 🎨 Integrated picker UI with automatic file type detection
+- 📦 Created modular services: `GoogleFilePicker`, `useGooglePicker` hook, `googlePickerService`
+
+**Impact:** Improved user experience by eliminating manual file ID entry
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-| AI Systems | Cloud & DevOps | Frameworks |
-|-------------|----------------|-------------|
-| LLM Orchestration (LangChain, CrewAI) | GCP Deployment Automation | Next.js 15 / App Router |
-| Agent Evaluation (LangSmith, Phoenix) | Advanced Docker Networking | FastAPI Async Patterns |
+### Core Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### AI & Cloud
+
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+## 📚 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkaashThawani&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkaashThawani&theme=github-dark&hide_border=true" alt="GitHub streak" height="160"/>
-</p>
+<table>
+<tr>
+<td width="33%" align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkaashThawani&theme=github-dark&hide_border=true" alt="Activity graph"/>
-</p>
+**🤖 AI Systems**
+- LLM Orchestration (CrewAI)
+- Agent Evaluation (LangSmith, Phoenix)
+- RAG Optimization
+
+</td>
+<td width="33%" align="center">
+
+**☁️ Cloud & DevOps**
+- GCP Deployment Automation
+- Advanced Docker Networking
+- GitHub Actions Workflows
+
+</td>
+<td width="33%" align="center">
+
+**⚡ Frameworks**
+- Next.js 15 App Router
+- FastAPI Async Patterns
+- Microservices Architecture
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkaashThawani&theme=gruvbox&no-frame=true&margin-w=15" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AkaashThawani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AkaashThawani&show_icons=true&theme=default&hide_border=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkaashThawani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+</picture>
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AkaashThawani&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AkaashThawani&theme=github&hide_border=true&custom_title=Contribution%20Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkaashThawani&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
+  </picture>
+</div>
 
 ---
 
-### 🌍 Reach Me
+## 💬 Let's Connect
+
+I'm always interested in collaborating on AI infrastructure projects, agentic systems, or backend architecture challenges. Feel free to reach out!
+
 <div align="center">
 
-| 📫 Email | 💼 LinkedIn | 🧠 Website |
-|-----------|-------------|------------|
-| akaashthawani13@yahoo.com | [linkedin.com/in/akaash-thawani](https://linkedin.com/in/akaash-thawani) | [akaash.works](https://www.akaash.works) |
+[![Portfolio](https://img.shields.io/badge/Portfolio-akaash.works-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.akaash.works)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akaash_Thawani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akaash-thawani/)
+[![Email](https://img.shields.io/badge/Email-akaashthawani13-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akaashthawani13@yahoo.com)
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkaashThawani&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
-</p>
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=AkaashThawani&label=Profile%20Views&color=0e75b6&style=flat-square)
+
+**Thanks for visiting! ⭐ Consider starring repositories you find interesting**
+
+</div>
