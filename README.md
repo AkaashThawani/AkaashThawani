@@ -4,9 +4,9 @@
 
 **Software Engineer II @ GetDynasty | NJIT Class of 2025 | Ex-SDE Reliance Jio**
 
-[![Website](https://img.shields.io/badge/🌐-akaash.works-blue?style=flat-square)](https://www.akaash.works)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akaash-thawani/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:akaashthawani13@yahoo.com)
+[![Work GitHub](https://img.shields.io/badge/GitHub-Work_Account-181717?style=flat-square&logo=github)](https://github.com/athawani07)
 
 </div>
 
@@ -160,9 +160,9 @@ I'm always interested in collaborating on AI infrastructure projects, agentic sy
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-akaash.works-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.akaash.works)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akaash_Thawani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akaash-thawani/)
 [![Email](https://img.shields.io/badge/Email-akaashthawani13-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akaashthawani13@yahoo.com)
+[![Work GitHub](https://img.shields.io/badge/GitHub-athawani07_(Work)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/athawani07)
 
 </div>
 
