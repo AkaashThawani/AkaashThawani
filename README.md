@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Akaash Thawani
 
-**AI & Software Engineer | Building Agentic Systems | Open Source Contributor**
+**Software Engineer II @ GetDynasty | NJIT Class of 2025 | Ex-SDE Reliance Jio**
 
 [![Website](https://img.shields.io/badge/🌐-akaash.works-blue?style=flat-square)](https://www.akaash.works)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akaash-thawani/)
@@ -14,13 +14,14 @@
 
 ## 🚀 About Me
 
-I'm a software engineer specializing in **AI-driven automation systems** and **agentic workflows**. I build scalable backend architectures that orchestrate complex reasoning across multiple AI agents, with a focus on production-ready LLM applications.
+CS graduate from NJIT (May 2025) with hands-on experience in full-stack web development, AI/ML integration, and cloud-based solutions. I build scalable, responsive applications using Angular, React, Next.js, TypeScript, Node.js, Flask, and SQL, deployed on Azure/GCP with Docker and CI/CD pipelines. Experienced with REST APIs, LLM APIs, RAG, LangChain, and LlamaIndex. At Reliance Jio, I delivered solutions that boosted user engagement by 30%. Currently a Software Engineer II at [GetDynasty](https://www.getdynasty.com), building scalable full-stack systems and AI-powered workflows for fintech/legal-tech infrastructure.
 
 ```typescript
 const akaash = {
-  focus: ["AI Orchestration", "Backend Architecture", "Cloud-Native Systems"],
-  currentlyBuilding: "Multi-agent systems for workflow automation",
-  learning: ["LLM Evaluation Frameworks", "Advanced GCP Deployments"],
+  role: "Software Engineer II @ GetDynasty",
+  focus: ["Full-Stack Engineering", "AI/LLM Integration", "Fintech & Legal-Tech Infrastructure"],
+  currentlyBuilding: "AI-powered workflows for QSBS trust planning at GetDynasty",
+  learning: ["LLM Evaluation Frameworks", "RAG Optimization", "Advanced Cloud Deployments"],
   openTo: "Collaborations on AI infrastructure & developer tools"
 };
 ```
@@ -76,16 +77,21 @@ Implemented native Google Drive file picker for Bubble Studio, enabling seamless
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### AI & Cloud
 
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
